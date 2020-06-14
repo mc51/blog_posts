@@ -16,5 +16,5 @@ dependencies:
   - libxgboost
   - scipy
   - xgboost
-  - tensorflow
+  - tensorflow=2.2.0
   - seaborn
